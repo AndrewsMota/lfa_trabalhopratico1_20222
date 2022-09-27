@@ -1,18 +1,33 @@
 # lfa_trabalhopratico1_20222
 
 #Integrantes:
+
 Andrews da Mota Silveira
 Giovana Thais Gonçalves Carvalho
-Gabriel
+Gabriel Lopes dos Santos
+
+
+
+
 
 #Introdução:
 
 O projeto faz parte da avaliação da disciplina de automatos ministrada pelo professor Adolfo, no qual tem objetivo de criar um automato que seja capaz de ler, criar e validar se um automato é válido ou não, por meio da linguagem python.
 
 
+
+
+
+
+
 #Configurações técnicas:
 
 Python 3 / Linguagem de programação
+
+
+
+
+
 
 
 #Descrição do projeto

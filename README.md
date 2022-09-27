@@ -2,9 +2,9 @@
 
 #Integrantes:
 
-Andrews da Mota Silveira
-Giovana Thais Gonçalves Carvalho
-Gabriel Lopes dos Santos
+Andrews da Mota Silveira,
+Giovana Thais Gonçalves Carvalho,
+Gabriel Lopes dos Santos,
 
 
 
